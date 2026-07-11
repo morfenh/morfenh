@@ -40,14 +40,6 @@ Features
 
 ⸻
 
-🎵 Music
-
-Besides programming, I create music under the name Tem Morfen.
-
-Music and programming are my two biggest creative passions.
-
-⸻
-
 📊 GitHub Stats
 
 <p align="center">
@@ -75,9 +67,8 @@ Music and programming are my two biggest creative passions.
 
 🌍 Connect With Me
 
-* GitHub
-* Instagram
-* Email
+* Instagram : morfenhn
+* Email : morfenhn@gmail.com
 
 ⸻
 
